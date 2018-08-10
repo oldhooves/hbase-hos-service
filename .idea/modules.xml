@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hos-common/hos-common.iml" filepath="$PROJECT_DIR$/hos-common/hos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hos-core/hos-core.iml" filepath="$PROJECT_DIR$/hos-core/hos-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hos-mybatis/hos-mybatis.iml" filepath="$PROJECT_DIR$/hos-mybatis/hos-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hos-sdk/hos-sdk.iml" filepath="$PROJECT_DIR$/hos-sdk/hos-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hos-server/hos-server.iml" filepath="$PROJECT_DIR$/hos-server/hos-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hos-service.iml" filepath="$PROJECT_DIR$/hos-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hos-web/hos-web.iml" filepath="$PROJECT_DIR$/hos-web/hos-web.iml" />
+    </modules>
+  </component>
+</project>
